@@ -17,8 +17,8 @@ const Menu = [
         image: Work2,
         title: "Term and Condition Generator Website",
         category: ["Frontend", "React js"],
-        url: "",
-        repositoryUrl: "https://github.com/DevMayani/term_condition_gen"
+        url: "https://terma-website.netlify.app/",
+        repositoryUrl: "https://github.com/DevMayani/t_c"
     },
     {
         id: 3,
