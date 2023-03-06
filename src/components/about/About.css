@@ -62,6 +62,9 @@
   font-size: var(--normal-font-size);
   font-weight: var(--font-medium);
 }
+.home__imgs{
+  border-radius: 10%;
+}
 
 .skills__number {
   line-height: 1.2;

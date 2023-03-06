@@ -1,6 +1,6 @@
 import React from 'react';
 import './About.css';
-import icon from '../../assets/jojo-img.jpeg';
+import icon from '../../assets/jojonews.JPG';
 import Resume from '../../assets/jojo_resume.pdf';
 // import AboutBox from './AboutBox';
 
@@ -15,7 +15,7 @@ const About = () => {
             <h2 className="section__title">About Me </h2>
 
             <div className="about__container grid">
-            <img src={icon} alt="" className='home__img' />
+            <img src={icon} alt="" className='home__imgs' />
 
                 <div className="about__data grid">
                     <div className="about__info">
