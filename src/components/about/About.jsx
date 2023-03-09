@@ -19,18 +19,18 @@ const About = () => {
 
                 <div className="about__data grid">
                     <div className="about__info">
-                        <p className="about__description">
-                            Hello! I'm Daramola Josephine, I'm a Frontend developer, I build websites, mobile app and web applications. I am smart enough to handle anything related to design and development..<br /><br />
+                        <span className="second-word-formatting">
+                            Hello!!!<br /> I am  Daramola Josephine, I am a Frontend developer, I build websites, mobile app and web applications.<br /> I am smart enough to handle anything related to design and development.<br /><br />
                             Fastforward to today, and I can honestly say it's been a beautiful journery and I hope to grow even further as Software Engineer. My current focus these days
                             is on expanidng my portfolio by building more projects that I can add on here, as well as being a great team player at my current role.<br /><br />
                             Here are a few technologies I’ve been working with recently:
-                        </p>
+                        </span>
                         <ul className="about__list">
                             <li>JavaScript (ES6+)</li>
                             <li>React</li>
                             <li>Vue.js</li>
                         </ul>
-                        <button className="btn" onClick={downloadResume}>Download CV</button>
+                        <button className="btns" onClick={downloadResume}>Download CV</button>
                     </div>
 
                     

@@ -69,7 +69,9 @@ aside {
 
 @media screen and (max-width: 1024px) {
   .aside {
-    left: -110px;
+    position: fixed;
+    background-color: var(--body-color);
+    /* left: -110px; */
   }
 
   .nav__toggle {

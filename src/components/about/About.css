@@ -33,7 +33,7 @@
 
 .about__list {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(1, 1fr);
   margin-bottom: 1rem;
 }
 
@@ -118,6 +118,7 @@
 .about__title {
   font-size: 1.875rem;
 }
+
 
 @media screen and (max-width: 1024px) {
   .about__container {

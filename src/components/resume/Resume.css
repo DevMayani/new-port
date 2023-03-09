@@ -71,11 +71,14 @@
 .tab__panel:last-child.is-active {
   border-top-left-radius: 0;
   border-bottom-left-radius: 0;
+ 
+  
 }
 
 @media screen and (max-width: 768px) {
   .resume__container {
-    max-width: 350px;
+    overflow-x: hidden;
+    width: 190px;
     margin: 0 auto;
   }
 
@@ -84,14 +87,17 @@
   }
 
   .tab__list {
-    width: 100vw;
+    width: 50vw;
     margin-bottom: 1.25rem;
+    margin: auto;
   }
 
   .tab__panel:first-of-type.is-active,
   .tab__panel:last-child.is-active {
     border-top-left-radius: var(--border-radius);
     border-bottom-left-radius: var(--border-radius);
+    width: 190px;
+    margin-top: 20px;
   }
 
   .tab.is-active .button {
@@ -101,9 +107,10 @@
 }
 
 .tab__panel-title {
-  font-size: var(--h3-font-size);
+  font-size: var(--h4-font-size);
   margin-bottom: 1rem;
   color: var(--title-color);
+
 }
 
 [data-theme="dark"] .tab__panel-title {
@@ -112,7 +119,7 @@
 
 .tab__panel-subtitle {
   font-size: var(--normal-font-size);
-  margin-bottom: 1rem;
+  margin-bottom: 0.5rem;
 }
 
 [data-theme="dark"] .tab__panel-subtitle {
