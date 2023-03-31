@@ -1,11 +1,14 @@
 import React, { useState } from "react";
 import "./Sidebar.css";
+import Logo from "../../assets/logo.svg";
+import LightLogo from "../../assets/light-logo.svg";
 
 import {
     RiHome2Line,
     RiUser3Line,
     RiBriefcase2Line,
     RiStackLine,
+    RiDraftLine,
     RiChat3Line,
     RiFileList3Line,
     RiMoonLine,

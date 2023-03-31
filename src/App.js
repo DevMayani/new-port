@@ -22,7 +22,7 @@ function App() {
   
   return (
     <div className="app" data-theme={theme}>
-       <Sidebar theme={theme} switchTheme={switchTheme} />
+       <Sidebar theme={theme} switchTheme={switchTheme} className='side' />
        <main className='main'>
      <Home />
      <About />

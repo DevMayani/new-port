@@ -1,9 +1,13 @@
 .main {
-  margin-left: 110px;
+  margin-left: 110ßpx;
+}
+.side{
+  display: hidden;
+  background-color: red;
 }
 
 @media screen and (max-width: 1024px) {
-  .main {
-    margin-left: 100px;
-  }
+  /* .main {
+    margin-right: 100px;
+  } */
 }
