@@ -5,16 +5,9 @@ import Work4 from "../../assets/work-4.svg";
 import Work6 from "../../assets/work-6.svg";
 
 const Menu = [
+ 
     {
         id: 1,
-        image: Work1,
-        title: "Portfolio Website",
-        category: ["Frontend", "Html & Css"],
-        url: "https://devmayani.github.io/mayani-portfolio-website/",
-        repositoryUrl: "https://github.com/DevMayani/mayani-portfolio-website"
-    },
-    {
-        id: 2,
         image: Work6,
         title: "Space_Tour Website",
         category: ["Frontend", "Html & Css"],
