@@ -2,6 +2,7 @@ import Work1 from "../../assets/work-1.svg";
 import Work2 from "../../assets/work-2.svg";
 import Work3 from "../../assets/work-3.svg";
 import Work4 from "../../assets/work-4.svg";
+import Work6 from "../../assets/work-6.svg";
 
 const Menu = [
     {
@@ -14,6 +15,14 @@ const Menu = [
     },
     {
         id: 2,
+        image: Work6,
+        title: "Space_Tour Website",
+        category: ["Frontend", "Html & Css"],
+        url: "https://github.com/DevMayani/Space_Tourist/",
+        repositoryUrl: "https://spacetour-app.netlify.app/"
+    },
+    {
+        id: 3,
         image: Work2,
         title: "Term and Condition Generator Website",
         category: ["Frontend", "React js"],
@@ -21,7 +30,7 @@ const Menu = [
         repositoryUrl: "https://github.com/DevMayani/t_c"
     },
     {
-        id: 3,
+        id: 4,
         image: Work3,
         title: "Linktree",
         category: ["Frontend", "React js"],

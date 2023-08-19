@@ -18,14 +18,7 @@ const data = [
         title: "Web Development",
         description:
             "Ensuring that a website meets the correct standards, and also ensuring it's well maintained",
-    },
-    {
-        id: 3,
-        image: Image3,
-        title: "Mobile Development",
-        description:
-            "Ensuring that a mobile app meets the correct standards, and also ensuring it's well maintained",
-    },
+    }
 ];
 
 const Services = () => {

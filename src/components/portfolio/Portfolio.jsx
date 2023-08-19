@@ -31,8 +31,8 @@ const Portfolio = () => {
                 <span className={activeFilter === 2 ? 'portfolio__item portfolio__item-active' : 'portfolio__item'} onClick={() => { filterItems("React js"); setActiveFilter(2) }}>
                     React js
                 </span>
-                <span className={activeFilter === 3 ? 'portfolio__item portfolio__item-active' : 'portfolio__item'} onClick={() => { filterItems("Vue js"); setActiveFilter(3) }}>
-                    Vue js
+                <span className={activeFilter === 3 ? 'portfolio__item portfolio__item-active' : 'portfolio__item'} onClick={() => { filterItems("Next js"); setActiveFilter(3) }}>
+                    Next js
                 </span>
             </div>
 
