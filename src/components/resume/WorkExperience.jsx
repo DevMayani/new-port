@@ -20,7 +20,9 @@ const WorkExperience = [
             "As a frontend developer, i was promoted to the role of a frontend developer, i built a Property Management System using Next.js, A Content Management System using React.js, Built a landing page and other pages for the web version of a Integrated Health and Wellness Platform that caters to both physical and mental health, using Next js.",
             "Worked to continually meet the expectation of our clients.",
         ],
-    },
+        
+    }
+    
     
 ];
 
