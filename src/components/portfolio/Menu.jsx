@@ -4,31 +4,49 @@ import Work3 from "../../assets/work-3.svg";
 import Work4 from "../../assets/work-4.svg";
 import Work6 from "../../assets/work-6.svg";
 
+
+
 const Menu = [
  
     {
         id: 1,
-        image: Work6,
+        image: Work4,
         title: "Space_Tour Website",
         category: ["Frontend", "Html & Css"],
         url: "https://github.com/DevMayani/Space_Tourist/",
-        repositoryUrl: "https://spacetour-app.netlify.app/"
+        // repositoryUrl: "https://spacetour-app.netlify.app/"
+    },
+    {
+        id: 2,
+        image: Work2,
+        title: "Terma",
+        category: ["Frontend", "React js"],
+        url: "https://terma-website.netlify.app/",
+        // repositoryUrl: "https://github.com/DevMayani/t_c"
     },
     {
         id: 3,
-        image: Work2,
-        title: "Term and Condition Generator Website",
+        image: Work3,
+        title: "Kreativerock",
         category: ["Frontend", "React js"],
-        url: "https://terma-website.netlify.app/",
-        repositoryUrl: "https://github.com/DevMayani/t_c"
+        url: "https://www.kreativerock.com/",
+        // repositoryUrl: "https://github.com/DevMayani/main-linktree"
     },
     {
         id: 4,
-        image: Work3,
-        title: "Linktree",
-        category: ["Frontend", "React js"],
-        url: "https://devmayani.github.io/main-linktree/",
-        repositoryUrl: "https://github.com/DevMayani/main-linktree"
+        image: Work1,
+        title: "Theragist",
+        category: ["Frontend", "Next js"],
+        url: "https://www.theragist.com/",
+        // repositoryUrl: "https://github.com/DevMayani/main-linktree"
+    },
+    {
+        id: 5,
+        image: Work6,
+        title: "Jaswill",
+        category: ["Frontend", "Next js"],
+        url: "https://www.jaswill.com/",
+        // repositoryUrl: "https://github.com/DevMayani/main-linktree"
     }
 ];
 

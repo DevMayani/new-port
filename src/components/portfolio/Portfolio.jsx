@@ -59,9 +59,9 @@ const Portfolio = () => {
                             <a href={url} target="_blank" rel="noreferrer" className="portfolio__button">
                                 <RiLink className="portfolio__button-icon" />
                             </a>
-                            <a href={repositoryUrl} target="_blank" rel="noreferrer" className="portfolio__github-button">
+                            {/* <a href={repositoryUrl} target="_blank" rel="noreferrer" className="portfolio__github-button">
                                 <RiGithubLine className="portfolio__button-icon" />
-                            </a>
+                            </a> */}
                         </motion.div>
                     );
                 })}

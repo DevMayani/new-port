@@ -10,7 +10,7 @@ const data = [
         image: Image1,
         title: "Responsive design",
         description:
-            "Ensuring that the website/mobile app is responsive across all platforms",
+            "Ensuring that the website is responsive across all platforms",
     },
     {
         id: 2,

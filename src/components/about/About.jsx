@@ -1,12 +1,12 @@
 import React from 'react';
 import './About.css';
 import icon from '../../assets/jojonews.JPG';
-import Resume from '../../assets/RxResume-new.pdf';
+import Cv from '../../assets/enny.pdf'
 // import AboutBox from './AboutBox';
 
 const About = () => {
     const downloadResume = async () => {
-        window.open(Resume, '_blank');
+        window.open(Cv, '_blank');
     }
 
 
@@ -27,7 +27,7 @@ const About = () => {
                         </span>
                         <ul className="about__list">
                             <li>JavaScript (ES6+)</li>
-                            <li>React</li>
+                            <li>React.js</li>
                             <li>Next.js</li>
                         </ul>
                         <button className="btns" onClick={downloadResume}>Download CV</button>
