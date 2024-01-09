@@ -13,22 +13,22 @@ const Menu = [
         image: Work4,
         title: "Space_Tour Website",
         category: ["Frontend", "Html & Css"],
-        url: "https://github.com/DevMayani/Space_Tourist/",
+        url: "https://spacetour-app.netlify.app/",
         // repositoryUrl: "https://spacetour-app.netlify.app/"
     },
     {
         id: 2,
         image: Work2,
-        title: "Terma",
-        category: ["Frontend", "React js"],
-        url: "https://terma-website.netlify.app/",
+        title: "Deep Tech",
+        category: ["Frontend", "Next js"],
+        url: "https://verydeeptech.com/",
         // repositoryUrl: "https://github.com/DevMayani/t_c"
     },
     {
         id: 3,
         image: Work3,
         title: "Kreativerock",
-        category: ["Frontend", "React js"],
+        category: ["Frontend", "Next js"],
         url: "https://www.kreativerock.com/",
         // repositoryUrl: "https://github.com/DevMayani/main-linktree"
     },
@@ -45,7 +45,7 @@ const Menu = [
         image: Work6,
         title: "Jaswill",
         category: ["Frontend", "Next js"],
-        url: "https://www.jaswill.com/",
+        url: "https://jaswill.vercel.app/",
         // repositoryUrl: "https://github.com/DevMayani/main-linktree"
     }
 ];
