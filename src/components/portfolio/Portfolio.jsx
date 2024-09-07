@@ -25,9 +25,9 @@ const Portfolio = () => {
                 <span className={activeFilter === 0 ? 'portfolio__item portfolio__item-active' : 'portfolio__item'} onClick={() => { setItems(Menu); setActiveFilter(0) }}>
                     All
                 </span>
-                <span className={activeFilter === 1 ? 'portfolio__item portfolio__item-active' : 'portfolio__item'} onClick={() => { filterItems("Html & Css"); setActiveFilter(1) }}>
+                {/* <span className={activeFilter === 1 ? 'portfolio__item portfolio__item-active' : 'portfolio__item'} onClick={() => { filterItems("Html & Css"); setActiveFilter(1) }}>
                    Html & Css
-                </span>
+                </span> */}
                 <span className={activeFilter === 2 ? 'portfolio__item portfolio__item-active' : 'portfolio__item'} onClick={() => { filterItems("React js"); setActiveFilter(2) }}>
                     React js
                 </span>
