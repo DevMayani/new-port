@@ -47,6 +47,17 @@
 .contact__form-area textarea {
   resize: none;
 }
+.success{
+  box-shadow: var(--shadow);
+  background-color: var(--container-color);
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10%;
+  font-size: var(--h3-font-size);
+  margin-bottom: 0.5rem;
+}
 
 @media screen and (max-width: 1024px) {
   .contact__container {
