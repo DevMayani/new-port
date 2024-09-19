@@ -17,7 +17,7 @@ const WorkExperience = [
         company: "Austech-Ic",
         yearsActive: "(April 10 2022, - Present)",
         information: [
-            "As a frontend developer, i was promoted to the role of a frontend developer, i built a Property Management System using Next.js, A Content Management System using React.js, Built a landing page and other pages for the web version of a Integrated Health and Wellness Platform that caters to both physical and mental health, using Next js.",
+            "As a frontend developer inter, i was promoted to the role of a frontend developer, i built a Property Management System using Next.js, A Content Management System using React.js, Built the web version of a Integrated Health and Wellness Platform that caters to both physical and mental health, using Next js and other projects.",
             "Worked to continually meet the expectation of our clients.",
         ],
         
