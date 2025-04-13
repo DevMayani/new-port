@@ -3,10 +3,10 @@ import Work2 from "../../assets/work-2.svg";
 import Work3 from "../../assets/work-3.svg";
 import Work4 from "../../assets/work-4.svg";
 import Work6 from "../../assets/work-6.svg";
-import toprofile from "../../assets/toprofile.png";
-import creative from "../../assets/creative.png";
+import gadgetify from "../../assets/gadgetify.png";
+import vant from "../../assets/vant.png";
 import theragist from "../../assets/theragist.png";
-import aldv from "../../assets/aldv.png";
+import campusgenie from "../../assets/campusgenie.png";
 import deep from "../../assets/deep.png";
 
 const Menu = [
@@ -14,45 +14,35 @@ const Menu = [
     
     {
         id: 1,
-        image: toprofile,
-        title: "Toprofile",
-        category: ["Frontend", "Next js"],
-        url: "https://toprofile.com/",
+        image: gadgetify,
+        title: "Gadetify",
+        category: ["Frontend", "React js"],
+        url: "https://gadgetify.ng/",
         // repositoryUrl: "https://github.com/DevMayani/main-linktree"
     },
     {
         id: 2,
-        image: aldv,
-        title: "Alphaadvocate Law Office",
-        category: ["Frontend", "Next js"],
-        url: "https://www.alphaadvocatelaw.com/",
+        image: vant,
+        title: "Vant",
+        category: ["Frontend", "React js"],
+        url: "https://business.vant.ng/",
         // repositoryUrl: "https://spacetour-app.netlify.app/"
     },
     {
         id: 3,
-        image: theragist,
-        title: "Theragist",
-        category: ["Frontend", "React js"],
-        url: "https://www.theragist.com/",
-        // repositoryUrl: "https://github.com/DevMayani/main-linktree"
+        image: campusgenie,
+        title: "Campus Genie",
+        category: ["Frontend", "Next js"],
+        url: "https://www.campusgenie.app/",
+        // repositoryUrl: "https://spacetour-app.netlify.app/"
     },
     {
         id: 4,
-        image: creative,
-        title: "Kreativerock",
+        image: theragist,
+        title: "Theragist",
         category: ["Frontend", "Next js"],
-        url: "https://www.kreativerock.com/",
+        url: "https://www.theragist.com/",
         // repositoryUrl: "https://github.com/DevMayani/main-linktree"
-    },
-    
-    
-    {
-        id: 5,
-        image: deep,
-        title: "Deep Tech",
-        category: ["Frontend", "React js"],
-        url: "https://verydeeptech.com/",
-        // repositoryUrl: "https://github.com/DevMayani/t_c"
     },
 ];
 

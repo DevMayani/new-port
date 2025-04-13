@@ -1,27 +1,26 @@
 const WorkExperience = [
    
+  
     {
         id: 1,
-        title: "Frontend Developer,Remote Intern",
-        company: "Nencia",
-        yearsActive: "(Dec 17  2022, - Feb 10  2023)",
+        title: "Frontend Developer,Remote",
+        company: "Austech-Ic",
+        yearsActive: "(April 10 2022, - December 2024)",
         information: [
-            "As a frontend developer intern,the major duty was to carry out varieties of project and team work helped in the efficiency and accuracy of meeting up with deadlines.",
-            "Used React js and Tailwind Css to build an Admin dash board,a nencia wedding app and other projects.",
-           
+            "At Austech-Ic, I began as a frontend developer intern and was promoted to a full-time frontend developer role. During my time with the company, I contributed to the development of several major projects, including a Property Management System built with Next.js, a Content Management System using React.js, and the web version of an Integrated Health and Wellness Platform that supports both physical and mental health. I collaborated closely with UI/UX designers to implement intuitive user interfaces based on wireframes and prototypes, while integrating REST APIs to ensure seamless interaction between frontend and backend services. I also gained hands-on experience with responsive design and mobile-first development practices, consistently working to meet and exceed client expectations.",
         ],
+        
     },
     {
         id: 2,
         title: "Frontend Developer,Remote",
-        company: "Austech-Ic",
-        yearsActive: "(April 10 2022, - Present)",
+        company: "Vant Inc",
+        yearsActive: "(January 2025, - Present)",
         information: [
-            "As a frontend developer inter, i was promoted to the role of a frontend developer, i built a Property Management System using Next.js, A Content Management System using React.js, Built the web version of a Integrated Health and Wellness Platform that caters to both physical and mental health, using Next js and other projects.",
-            "Worked to continually meet the expectation of our clients.",
+            "At Vant Inc, where I play an active role in building and maintaining web applications. One of my key contributions has been to the Vant for Business Admin Dashboard, a robust platform designed to streamline business operations. I use React.js, Next.js, and Tailwind CSS to build responsive, accessible, and user-friendly interfaces, following mobile-first design principles and ensuring cross-browser compatibility. My responsibilities include integrating RESTful APIs in collaboration with backend engineers, optimizing data flow, and continuously improving the user experience through testing and feedback. I regularly participate in code reviews and team knowledge-sharing sessions to contribute to a high-performing, collaborative development environment.",
+           
         ],
-        
-    }
+    },
     
     
 ];
