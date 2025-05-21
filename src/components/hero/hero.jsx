@@ -1,6 +1,6 @@
 import React from 'react';
 import './hero.css';
-import icon from '../../assets/jojo-img.jpeg';
+// import icon from '../../assets/jojo-img.jpeg';
 import iconmain from '../../assets/jojonews.JPG';
 import HeaderSocials from './HeaderSocials';
 import ScrollDown from './ScrollDown';
