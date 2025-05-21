@@ -14,10 +14,10 @@ const WorkExperience = [
     {
         id: 2,
         title: "Frontend Developer,Remote",
-        company: "Vant Inc",
+        company: "Vant Inc (Fintech)",
         yearsActive: "(January 2025, - Present)",
         information: [
-            "At Vant Inc, where I play an active role in building and maintaining web applications. One of my key contributions has been to the Vant for Business Admin Dashboard, a robust platform designed to streamline business operations. I use React.js, Next.js, and Tailwind CSS to build responsive, accessible, and user-friendly interfaces, following mobile-first design principles and ensuring cross-browser compatibility. My responsibilities include integrating RESTful APIs in collaboration with backend engineers, optimizing data flow, and continuously improving the user experience through testing and feedback. I regularly participate in code reviews and team knowledge-sharing sessions to contribute to a high-performing, collaborative development environment.",
+            "At Vant Inc, where I play an active role in building and maintaining web applications. One of my key contributions has been to the Vant for Business Admin Dashboard, a robust platform designed to streamline business operations and alos building the vantapp website from the scratch. I use React.js, Next.js, and Tailwind CSS and other frontend technologies to build responsive, accessible, and user-friendly interfaces, following mobile-first design principles and ensuring cross-browser compatibility. My responsibilities include integrating RESTful APIs in collaboration with backend engineers, optimizing data flow, and continuously improving the user experience through testing and feedback. I regularly participate in code reviews and team knowledge-sharing sessions to contribute to a high-performing, collaborative development environment.",
            
         ],
     },

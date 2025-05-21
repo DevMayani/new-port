@@ -1,5 +1,5 @@
 import React from 'react';
-import './Home.css';
+import './hero.css';
 import icon from '../../assets/jojo-img.jpeg';
 import iconmain from '../../assets/jojonews.JPG';
 import HeaderSocials from './HeaderSocials';
