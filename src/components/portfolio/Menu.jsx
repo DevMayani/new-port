@@ -1,9 +1,5 @@
-// import Work1 from "../../assets/work-1.svg";
-// import Work2 from "../../assets/work-2.svg";
-// import Work3 from "../../assets/work-3.svg";
-// import Work4 from "../../assets/work-4.svg";
-// import Work6 from "../../assets/work-6.svg";
-import gadgetify from "../../assets/gadgetify.png";
+
+import nuxalle from "../../assets/nuxalle.png";
 import vant from "../../assets/vant.png";
 import theragist from "../../assets/theragist.png";
 import campusgenie from "../../assets/campusgenie.png";
@@ -16,19 +12,18 @@ const Menu = [
         image: vant,
         title: "Vant",
         category: ["Frontend", "React js"],
-        url: "https://business.vant.ng/",
+        url: "https://vantapp.com/",
         pageLink: "/case/vant",
         // repositoryUrl: "https://spacetour-app.netlify.app/"
     },
     {
         id: 2,
-        image: gadgetify,
-        title: "Gadetify",
+        image: nuxalle,
+        title: "Nuxalle",
         category: ["Frontend", "React js"],
-        url: "https://gadgetify.ng/",
-        pageLink: "/case/gadgetify",
-        
-        // repositoryUrl: "https://github.com/DevMayani/main-linktree"
+        url: "https://nuxalle.com",
+         pageLink: "/case/nuxalle",
+
     },
    
     {
@@ -38,7 +33,6 @@ const Menu = [
         category: ["Frontend", "Next js"],
         url: "https://www.campusgenie.app/",
         pageLink: "/case/campusgenie",
-        // repositoryUrl: "https://spacetour-app.netlify.app/"
     },
     {
         id: 4,
@@ -47,7 +41,6 @@ const Menu = [
         category: ["Frontend", "Next js"],
         url: "https://www.theragist.com/",
         pageLink: "/case/theragist",
-        // repositoryUrl: "https://github.com/DevMayani/main-linktree"
     },
 ];
 

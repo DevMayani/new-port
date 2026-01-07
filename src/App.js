@@ -9,6 +9,7 @@ import Gadgetify from './pages/case/gadgetify';
 import Campusgenie from './pages/case/campusgenie';
 import Theragist from './pages/case/theragist';
 import ScrollToTop from './components/scrollTop';
+import Nuxalle from './pages/case/nuxalle';
 function App() {
   const defaultDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
   const [theme, setTheme] = useLocalStorage('theme', defaultDark ? 'dark' : 'light');
@@ -32,6 +33,7 @@ function App() {
             <Route path="/" element={<Home />} />
             <Route path="/case/vant" element={<Vant />} />
             <Route path="/case/gadgetify" element={<Gadgetify />} />
+            <Route path="/case/nuxalle" element={<Nuxalle />} />
             <Route path="/case/campusgenie" element={<Campusgenie />} />
             <Route path="/case/theragist" element={<Theragist />} />
         

@@ -1,7 +1,7 @@
 import React from 'react';
 import './About.css';
 import icon from '../../assets/jojonews.JPG';
-import Cv from '../../assets/Arobani_Josephine_Frontend_Cv.pdf'
+import Cv from '../../assets/Arobani_Eniola_Josephine_Frontend_Resume.pdf';
 // import AboutBox from './AboutBox';
 
 const About = () => {
